@@ -2,3 +2,4 @@ file1 created
 and modified
 now modified locally
 + feature2 enhanced
+feature3 branched
