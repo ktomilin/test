@@ -2,4 +2,8 @@ file1 created
 and modified
 now modified locally
 + feature2 enhanced
+<<<<<<< HEAD
 feature3
+=======
+feature3 branched
+>>>>>>> feature3
