@@ -1,1 +1,2 @@
 file2 added on feature1 branch
+new line
