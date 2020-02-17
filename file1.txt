@@ -1,8 +1,9 @@
 file1 created
 and modified
 now modified locally
-+ feature2 enhanced
++ feature2 removed
 feature3
 feature3 branched
 some addition
 just a correction
+one two three
